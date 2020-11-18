@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm currently a sophomore in SJTU, majored in Computer Science.
 
-我是交大CS的一个即将大二的学生，很高兴遇见你:smile:
+我是交大CS的一个大二的学生，很高兴遇见你:smile:
+
+**All is well.**
+
 <!--
 **ADSWT518/ADSWT518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
