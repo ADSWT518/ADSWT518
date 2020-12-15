@@ -1,9 +1,17 @@
 ### Hi there 👋
-I'm currently a sophomore in SJTU, majored in Computer Science.
+I am Yazhou Tang, a sophomore in SJTU, majored in Computer Science.
 
 我是交大CS的一个大二的学生，很高兴遇见你:smile:
 
-**All is well.**
+:star: I believe that **All is well**, and **everything will be better**.
+
+:computer: I'm currently learning Qt.
+
+:book: And I'm also busy working for my final examination.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ADSWT518&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **ADSWT518/ADSWT518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
