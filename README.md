@@ -12,7 +12,13 @@ I am Yazhou Tang, a sophomore in SJTU, majored in Computer Science.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ADSWT518&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
+```text
+Coq        9 hrs 35 mins   █████████████████████░░░░   83.64 % 
+Other      1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+C++        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
