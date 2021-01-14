@@ -5,13 +5,15 @@ I am Yazhou Tang, a sophomore in SJTU, majored in Computer Science.
 
 :star: I believe that **All is well**, and **everything will be better**.
 
-:computer: I'm currently learning Qt.
+:computer: I'm currently learning [Software Foundations](https://softwarefoundations.cis.upenn.edu/).
 
-:book: And I'm also busy working for my final examination.
+:bulb: I'm curious about all interesting things.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ADSWT518&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 <!--
 **ADSWT518/ADSWT518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
