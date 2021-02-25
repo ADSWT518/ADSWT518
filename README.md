@@ -13,13 +13,13 @@ I am Yazhou Tang, a sophomore in SJTU, majored in Computer Science.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 February, 2021 - 23 February, 2021
+Week: 17 February, 2021 - 24 February, 2021
 
-Coq          12 hrs 23 mins  ████████████████████████░   96.59 % 
-Python       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Coq          18 hrs 42 mins  ████████████████████████▒   97.62 % 
+Python       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
 
