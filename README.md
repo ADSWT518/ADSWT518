@@ -13,7 +13,7 @@ I am Yazhou Tang, a sophomore in SJTU, majored in Computer Science.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2021 - 02 April, 2021
+Week: 27 March, 2021 - 03 April, 2021
 
 Verilog   5 hrs 30 mins   ████████████████▒░░░░░░░░   64.69 % 
 C         1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.66 % 
