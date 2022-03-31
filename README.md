@@ -7,7 +7,7 @@ I am Yazhou Tang, a junior in SJTU, majored in Computer Science.
 
 :bulb: I'm curious about all interesting things.
 
-:seedling: I'm currently learning **formal verification** and **concurrent data structure**.
+:seedling: I'm currently learning **programming languages** and **formal verification**.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ADSWT518&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
