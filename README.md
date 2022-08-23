@@ -1,13 +1,13 @@
 ### Hi there 👋
-I am Yazhou Tang, a junior in SJTU, majored in Computer Science.
+I am Yazhou Tang, a senior student in SJTU, majored in Computer Science.
 
-我是交大CS的一个大三的学生，很高兴遇见你 :laughing:
+:seedling: I'm currently learning **programming languages** and **formal verification**, and doing something about [VST](https://github.com/PrincetonUniversity/VST).
+
+:dart: I'm preparing for **National Postgraduate Entrance Examination** this year.
 
 :star: I believe that **All is well**, and **everything will be better**.
 
-:bulb: I'm curious about all interesting things.
-
-:seedling: I'm currently learning **programming languages** and **formal verification**.
+:bulb: I'm curious about some interesting things, such as compilers and program analysis.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ADSWT518&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
