@@ -1,13 +1,11 @@
 ### Hi there 👋
 I am Yazhou Tang, a senior student in SJTU, majored in Computer Science.
 
-🌱 Learning **programming languages** and **formal verification**, and doing something about [VST](https://github.com/PrincetonUniversity/VST).
+* 🌱 Learning **programming languages** and **formal verification**, and doing something about [VST](https://github.com/PrincetonUniversity/VST).
+* 💡 Interested in compilers and program analysis.
+* 💻 Learning algorithms on LeetCode.
 
-💡 Interested in compilers and program analysis.
-
-💻 Learning algorithms on LeetCode.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ADSWT518&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[my resume in Chinese](https://www.tangda.me/files/resume-cn.pdf)
 
 <!--
 **ADSWT518/ADSWT518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
